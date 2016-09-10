@@ -14,7 +14,7 @@
 *	with numbers representing how many mines are adjacent to a
 *	particular cell. All cells start covered, and the user can either
 *	uncover a cell, flag a cell to mark as a potential mine, or remove
-*	a flag. If the user uncovers a cell with a mine, the user looses.
+*	a flag. If the user uncovers a cell with a mine, the user loses.
 *	If the user uncovers all cells that are not mines, the user wins.
 *	If the user has every mine flagged, and no other cells are flagged,
 *	the user wins.
